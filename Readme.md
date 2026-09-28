@@ -11,7 +11,7 @@
 
 ## 👋 About Me:
 
-**BCA Graduate | Data Analyst | Ex-Intern @ DRDO & Nitro Commerce (AdTech) | Chiacon Consulting **
+**BCA Graduate | Data Analyst | Ex-Intern @ DRDO & Nitro Commerce (AdTech) & Chiacon Consulting **
 
 I turn raw, messy data into decisions that move businesses forward. During my internships, I structured large-scale datasets of over 150,000 records using Python[cite: 3], built live Power BI dashboards tracking over ₹1.47 Crores in ad revenue[cite: 2], and optimized deep learning model pipelines to reduce latency by 81%[cite: 3].
 
