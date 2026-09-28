@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **advanced machine learning techniques and data pipelines.**
 - 👯 I’m looking to collaborate on **data-driven Open Source Projects.**
 - 💬 Ask me about **Python, SQL, Power BI, or extracting insights from raw data.**
-- 📫 How to reach me: **[Add your email here]**
+- 📫 How to reach me: **[abhisheekpal28@gmail.com]**
 
 ---
 
