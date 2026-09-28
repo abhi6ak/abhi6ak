@@ -3,7 +3,7 @@
 <!-- Dynamic Typing Animation -->
 <div align="center">
   <a href="https://github.com/abhi6ak">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Always+learning+new+things;Building+cool+projects;Open+Source+Contributor&font=Fira+Code&center=true&width=440&height=45&color=36BCF5&vCenter=true&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Power+BI+%26+DAX+Expert;Python+%26+SQL+Enthusiast;Transforming+Data+into+Insights&font=Fira+Code&center=true&width=450&height=45&color=36BCF5&vCenter=true&pause=1000" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,20 +11,42 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **exciting new projects!**
-- 🌱 I’m currently learning **new frameworks and technologies.**
-- 👯 I’m looking to collaborate on **Open Source Projects.**
-- 💬 Ask me about **tech, programming, or anything related.**
+- 🔭 I’m currently working on **advanced data modeling and analytics dashboards.**
+- 🌱 I’m currently learning **advanced machine learning techniques and data pipelines.**
+- 👯 I’m looking to collaborate on **data-driven Open Source Projects.**
+- 💬 Ask me about **Python, SQL, Power BI, or extracting insights from raw data.**
 - 📫 How to reach me: **[Add your email here]**
+
+---
+
+### 💼 Experience
+
+**Nitro Commerce | MIS Executive, Ad Ops** *(April - Sept)*
+* Built live Power BI dashboards utilizing DAX queries and measures to track total spend, revenue, margin, and ROAS across multiple channels[cite: 2].
+* Monitored quarterly metrics analyzing ₹93 Lakhs in ad spend against ₹1.47 Crores in revenue, successfully tracking a 1.58 ROAS[cite: 2].
+* Developed automated workflows using Google Sheets and Google Apps Script to segment anonymous website visitors into Cold, Warm, Heat, and Hot funnel categories based on behavior[cite: 2].
+* Managed daily performance reporting across 11 different platforms, including Taboola and Zomato, for over 90 active brand campaigns[cite: 2].
+
+**DRDO | Data Intern** *(Sept - March)*
+* Cleaned and structured a large-scale dataset of over 150,000 images using Python, Pandas, and NumPy[cite: 3].
+* Prepared training data for deep learning models by filtering out duplicates and low-quality images, standardizing formats, labeling data, and organizing metadata tables[cite: 3].
+* Optimized the inference pipeline of an adapted open-source deep learning model[cite: 3].
+* Successfully reduced model processing latency from 1.6 seconds to 0.3 seconds per frame, achieving an 81% performance improvement[cite: 3].
+
+**Chiacon Consulting | Data Analyst Intern** *(June - Aug)*
+* Designed and developed client-facing dashboards using Power BI and DAX for advanced data modeling[cite: 4].
+* Handled data import and transformation processes utilizing Power Query (M)[cite: 4].
+* Authored complex SQL Server queries incorporating joins, Common Table Expressions (CTEs), stored procedures, views, and ranking functions[cite: 4].
+* Gained exposure to cloud data orchestration using Microsoft Azure environments, including Azure Data Factory, Key Vault, and Storage Accounts[cite: 4].
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Add/Remove skills by changing the logo names -->
+  <!-- Replaced web dev tools with Data Analytics tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,docker,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,gcp,git,github,vscode,linux&perline=10" />
   </a>
 </p>
 
